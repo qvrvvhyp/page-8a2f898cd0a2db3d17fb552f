@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-65c760e70f.hndaocaorenly.cn/sitemap.xml
